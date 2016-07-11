@@ -3,3 +3,4 @@ Git is a free softwore.
 nihao
 hello world
 This new entry
+This second enrty
