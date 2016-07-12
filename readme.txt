@@ -5,3 +5,4 @@ hello world
 This new entry
 This second enrty
 Git has a mutable index called stage.
+Git tracks changes.
